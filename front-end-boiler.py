@@ -7,6 +7,7 @@ html.write('</title>')
 html.write("<link rel='stylesheet' href='./style.css'>")
 html.write('</head>')
 html.write('<body>')
+html.write('<script src="./script.js"></script>')
 html.write('</body>')
 html.write('</html>')
 
